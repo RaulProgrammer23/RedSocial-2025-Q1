@@ -9,7 +9,8 @@ La idea como toma de contacto con este tipo de aplicaciones. Aprendizaje con Rea
   
 ## Contenido
 - Registro y login de usuarios ✅
-- Publicar posts con imágenes ✅🚦 { reparando error }
+- Publicar posts con imágenes ✅
+- Mostrar los post públicos de los usuarios que sigo ✅🚦 { reparando error }
 - Personalizar perfil ya creado ✅
 - Chat en tiempo real usando Socket.io 👎🏼
 - Sistema de notificaciones 👎🏼
