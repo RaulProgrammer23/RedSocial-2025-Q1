@@ -1,4 +1,4 @@
-# Mi Red Social
+# Red Social {0/12}->(1)
 La idea como toma de contacto con este tipo de aplicaciones. Aprendizaje con React y NodeJS. Bases de datos no relacionales.
 
 ## Tecnologías usadas
