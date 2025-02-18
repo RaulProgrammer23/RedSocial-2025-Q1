@@ -24,8 +24,10 @@ La idea como toma de contacto con este tipo de aplicaciones. Aprendizaje con Rea
 *arrancar-proyecto.bat* -> cambie las rutas por las de su equipo 
 para ejecutar el servidor de MongoDB, el api y el frontend a la vez.
 
-## Capturas de pantalla
+## Capturas de pantalla, prueba ficticia:
+
 ![image](https://github.com/user-attachments/assets/4ccb7635-4655-4599-9894-e04acc7a8a91)
+
 ![image](https://github.com/user-attachments/assets/121a759c-518a-41c1-bbc7-03d2709f095d)
 
 
